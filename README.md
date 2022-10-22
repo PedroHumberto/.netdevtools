@@ -2,15 +2,17 @@
 
 Learning how to use de dev tools (Managing Packages)
 
+Links:
+[nuget.org](Nuget)
 ---
 
 ## Managing Packages:
 [dotnet list package]
 
 Dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.1
-* Installs version 3.1.1 oof the Microsoft.EntityFrameworkCore.SqlServer package -> nuget.org
+* Installs version 3.1.1 oof the Microsoft.EntityFrameworkCore.SqlServer package -> 
 
----
+
 
 ## Tool Packages
 Install an Entity Framework Core tools
